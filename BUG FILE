@@ -12,7 +12,7 @@ Enter 15
 Click on - button
 Enter 5
 Click on = button
-Expected Result: The calculator should display 14.
+Expected Result: The calculator should display 10.
 
 Actual Result: 14 displayed Wrong value .
 
