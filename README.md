@@ -39,7 +39,7 @@ Test Steps:
 4. Click on = button
 
 Expected Result:
-The calculator should display 14.
+The calculator should display 10.
 
 Actual Result:
 14 displayed Wrong value .
