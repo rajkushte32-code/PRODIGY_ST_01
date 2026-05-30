@@ -1,1 +1,19 @@
+Test Case ID: TC_02
 
+Module: Calculator Application
+
+Test Scenario: Verify subtraction of two numbers
+
+Precondition: Calculator application is opened.
+
+Test Steps:
+
+Enter 15
+Click on - button
+Enter 5
+Click on = button
+Expected Result: The calculator should display 14.
+
+Actual Result: 14 displayed Wrong value .
+
+Status: FAIL
